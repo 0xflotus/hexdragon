@@ -6,7 +6,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="hexdragon",
-    version="0.0.6",
+    version="0.0.7",
     description="Print a file as coloured hexadecimal to console",
     long_description=README,
     long_description_content_type="text/markdown",
