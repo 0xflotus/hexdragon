@@ -8,4 +8,4 @@ Print a file as coloured hexadecimal values to console.
 > python3 -m hexdragon <file>
 ```
 
-![console](./docs/console.png)
+![console](./docs/console_sh.png)
